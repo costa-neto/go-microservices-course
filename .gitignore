@@ -25,4 +25,8 @@ go.work.sum
 .env
 
 .DS_STORE
+project/db-data/postgres/*
+project/db-data/mongo/*
+project/db-data*
+
 
